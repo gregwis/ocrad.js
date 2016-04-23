@@ -1,5 +1,5 @@
 # you'll probably need to change this unless your name is also kevin
-PATH="$PATH:/Users/kevin/emsdk:/Users/kevin/emsdk/clang/e1.27.0_64bit:/Users/kevin/emsdk/node/0.10.18_64bit/bin:/Users/kevin/emsdk/emscripten/1.27.0"
+#PATH="$PATH:/Users/kevin/emsdk:/Users/kevin/emsdk/clang/e1.27.0_64bit:/Users/kevin/emsdk/node/0.10.18_64bit/bin:/Users/kevin/emsdk/emscripten/1.27.0"
 
 # autogenerate some parts of the postcode
 python src/generate.py
